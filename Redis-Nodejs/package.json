@@ -1,0 +1,16 @@
+{
+  "name": "redis",
+  "version": "1.0.0",
+  "description": "What is Redis?\r Redis is an open-source, in-memory data structure store that can be used as a cache, database, and message broker. It stands for Remote Dictionary Server and is known for its speed, simplicity, and versatility. Redis stores data in key-value pairs and supports various data types, including strings, lists, sets, hashes, and more. It is widely used for caching frequently accessed data, real-time analytics, leaderboard functionality, and session management.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^4.6.7"
+  }
+}
